@@ -2,6 +2,8 @@
   <library name="lombok">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../MySQL_DATA/lombok/lombok.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../MySQL_DATA/gson-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../MySQL_DATA/json-20240303.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
